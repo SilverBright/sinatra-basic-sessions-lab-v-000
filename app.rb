@@ -12,6 +12,7 @@ class App < Sinatra::Base
   end
 
   get '/checkout' do
+    erb: result
 
   end
 
